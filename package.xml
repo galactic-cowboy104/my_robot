@@ -4,7 +4,7 @@
   <name>My_Robot</name>
   <version>0.0.0</version>
   <description>TODO: Package description</description>
-  <maintainer email="enrique.hernandez@fi.unam.com">Zoé Trejo</maintainer>
+  <maintainer email="enrique.hernandez@ingenieria.unam.com">Zoé Trejo</maintainer>
   <license>TODO: License declaration</license>
 
   <buildtool_depend>ament_cmake</buildtool_depend>
