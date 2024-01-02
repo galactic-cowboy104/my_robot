@@ -23,6 +23,11 @@
         <color rgba="0 0 0 1" />
     </material>
 
+    <!--Red Color-->
+    <material name="red">
+        <color rgba="1 0 0 1" />
+    </material>
+
     <!--Base Link-->
     <link name="base_link" />
 
